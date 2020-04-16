@@ -32,18 +32,18 @@ Users can view tasks that are assigned to them.
 
 ### Screenshots:
 ---
-* Login:
-...
-* Admin:
-...
-* Register User:
-...
-* Add Task:
-...
-* View All Tasks:
-...
-* View My Tasks:
-...
+* Login:  
+![Login Screen](https://github.com/keenan-n/HypeDev_Python_L1Task25_TaskManager/blob/master/login_screen.png)
+* Admin:  
+![Admin Menu](https://github.com/keenan-n/HypeDev_Python_L1Task25_TaskManager/blob/master/admin_menu.png)
+* Register User:  
+![Register User](https://github.com/keenan-n/HypeDev_Python_L1Task25_TaskManager/blob/master/reg_user.png)
+* Add Task:  
+![Add Task](https://github.com/keenan-n/HypeDev_Python_L1Task25_TaskManager/blob/master/add_task.png)
+* View All Tasks:  
+![View All](https://github.com/keenan-n/HypeDev_Python_L1Task25_TaskManager/blob/master/view_all.png)
+* View My Tasks:  
+![View My](https://github.com/keenan-n/HypeDev_Python_L1Task25_TaskManager/blob/master/view_my.png)
 
 ### Support:
 ----
